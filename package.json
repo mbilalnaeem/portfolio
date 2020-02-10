@@ -1,0 +1,22 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "learn docker by naveed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "learn-docker"
+  },
+  "keywords": [
+    "learn",
+    "docker"
+  ],
+  "author": "naveed-rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
